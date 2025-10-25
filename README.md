@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Rumman Zaman
+## Hi there! 👋 I'm Rumman Zaman
 
 🚀 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 📊 Data Science Student  
 
@@ -29,7 +29,7 @@ I'm passionate about building scalable web apps, automating cloud deployments, a
 - **DevOps:** Docker, CI/CD, NGINX  
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rummanz&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rummanz&show_icons=true&theme=github_dark)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
